@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url(/asset/bg\ register.jpg) center/cover no-repeat fixed;
+  background: url(../asset/bg\ register.jpg) center/cover no-repeat fixed;
 }
 
 .login-page {

@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url(/asset/bg\ login.jpg) no-repeat center center fixed;
+  background: url(../asset/bg\ login.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 

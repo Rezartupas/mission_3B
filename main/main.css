@@ -108,7 +108,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background-image: url(/asset/tedlasso2.png);
+  background-image: url(../asset/tedlasso2.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -239,19 +239,19 @@ span:nth-of-type(2) {
 
 /* Individual Movie Backgrounds */
 .movie-1 .card1 {
-  background: url(/asset/component.png);
+  background: url(../asset/component.png);
 }
 
 .movie-1 .card2 {
-  background: url(/asset/component2.png);
+  background: url(../asset/component2.png);
 }
 
 .movie-1 .card3 {
-  background: url(/asset/component1.png);
+  background: url(../asset/component1.png);
 }
 
 .movie-1 .card4 {
-  background: url(/asset/component3.png);
+  background: url(../asset/component3.png);
 }
 
 .movie-2 {
@@ -340,7 +340,7 @@ footer {
   font-weight: 600;
 }
 
-.meni-list {
+.menu-list {
   display: flex;
   flex-direction: row;
   justify-content: center;
